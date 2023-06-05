@@ -3,6 +3,7 @@
 import random
 
 choice = input("What do you choose? Input 0 for Rock, 1 for Scissors and 2 for  Paper\n")
+print(" 0 is for Rock\n 1 is for Scissors\n 2 is for Paper") 
 my_choice = int(choice)
 
 choices = ["Rock", "Scissors", "Paper"]
